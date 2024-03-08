@@ -1,0 +1,2 @@
+# FreqTrade
+FreqTrade Strategies
